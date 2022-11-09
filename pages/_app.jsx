@@ -41,7 +41,8 @@ function MyApp({ Component, pageProps }) {
               </p>
               <p className="mt-4">
                 Currently working as a senior analyst since several years and
-                coding from almost 1.5 years on my own.
+                coding from almost 1.5 years on my own. Added a small
+                modification.
               </p>
               <div className="md:flex flex-col hidden mt-20 gap-4">
                 <a href="#projects">
